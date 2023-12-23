@@ -1,2 +1,4 @@
-.vscode
+.vscode 
+#  bỏ confix mặc định 
 node_modules/
+# k cần phải đẩy modules
